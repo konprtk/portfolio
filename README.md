@@ -1,7 +1,7 @@
 
 # Pratik Lokhande - Portfolio Website
 
-This is the repository for my personal portfolio website. You can visit the live website at [konprtk.github.io](https://konprtk.github.io).
+This is the repository for my personal portfolio website. You can visit the live website at [konprtk.github.io](https://konprtk.github.io/portfolio/).
 
 ## About
 
